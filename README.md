@@ -1,28 +1,35 @@
 # Learning Atlas
 
-My personal learning map.
+A personal learning path system for building foundations in mathematics, physics, computer science, astrophysics, and languages.
 
-This repository starts with astrophysics and will gradually expand into related foundations such as mathematics, computer science, chemistry, and languages.
+This repository is not only an archive of notes. It is a map of what I am learning, why I am learning it, and how each subject connects to my long-term academic and research goals.
 
-## Phase 1: Astrophysics
+## Main Paths
 
-Current focus:
+- Mathematics
+- Physics
+- Astrophysics
+- Computer Science
+- Languages
 
-- Galactic astronomy
-- Stellar populations
-- Observational astronomy
-- Computational astrophysics
-- High-energy astrophysics
+## Purpose
 
-## Structure
+The goal is to build a structured foundation before and during university-level study.
 
-- notes/: Concept notes
-- readings/: Paper and book notes
-- logs/: Weekly learning records
-- ROADMAP.md: Learning plan
+This includes:
 
-## Principle
+- following selected courses such as MIT OpenCourseWare
+- reading textbooks, papers, and articles
+- writing organized notes
+- solving problem sets
+- keeping handwritten notes and exam-preparation materials
+- tracking progress through learning logs
 
-Keep it useful.
-Keep it simple.
-Keep learning visible.
+## Repository Logic
+
+- `paths/` defines the learning routes and ability map
+- `notes/` stores organized knowledge notes
+- `readings/` stores reading records and summaries
+- `logs/` stores progress updates and reflections
+
+More folders may be added as the system grows.
