@@ -4,6 +4,10 @@
 
 Started.
 
+## Materials
+
+- [Lecture Notes](lecture-notes.pdf)
+
 ## Core Idea
 
 Solving a system of linear equations means finding the common intersection of the geometric objects represented by those equations.
